@@ -1,0 +1,3 @@
+[submodule "git-katas"]
+	path = git-katas
+	url = git@github.com:eficode-academy/git-katas.git
